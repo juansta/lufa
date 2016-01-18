@@ -1,0 +1,3 @@
+[submodule "Demos/Device/ClassDriver/intiController"]
+	path = Demos/Device/ClassDriver/intiController
+	url = /home/juan/code/intiController/
